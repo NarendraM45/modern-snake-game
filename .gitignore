@@ -1,0 +1,9 @@
+# Ignore large or temporary files
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+
+# Ignore system files
+Thumbs.db
+desktop.ini
